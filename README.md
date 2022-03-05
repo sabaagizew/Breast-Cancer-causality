@@ -29,39 +29,62 @@ principle, causal effects. Modeling causality through graphs brings an
 appropriate language to describe the dynamics of causality.
 
 Workflow
+
 ● Read the data
+
 ● Perform exploratory analysis on it
+
 ● Extract features and scale the extracted feature
+
 ● Split the data into training and hold-out set
+
 ● Create a casual graph using a different technique
+
 ● Examine the model performance based on the graph
 
 Skills:
+
 ● Modelling a given problem as a causal graph
+
 ● Statistical Modelling and Inference Extraction
+
 ● Building model pipelines and orchestration
 
 Knowledge:
+
 ·● Knowledge about the casual graphs and statistical learning
+
 ● Hypothesis Formulation and Testing
+
 ● Statistical Analysis
 
 Installation
+
 ● pip install causalgraphicalmodels
 
 Resources
+
 ● https://github.com/sharmaroshan/Breast-Cancer-Wisconsin/blob/master/Br
 east cancerDiagnosis.ipynb
+
 ● https://github.com/Gyubin/WDBC_analysis
+
 ● https://towardsdatascience.com/building-a-simple-machine-learning-modelon-breast-cancer-data-eca4b3b99fa3
+
 ● https://medium.com/swlh/breast-cancer-classification-using-python-e83719
 e5f97d
+
 ● https://github.com/raviolli77/machineLearning_breastCancer_Python/blob/
 master/notebooks/02_random_forest.ipynb
+
 ● https://github.com/chb005/Machine-Learning-Hindi-Playlist
+
 ● https://github.com/DataForScience/Causality
+
 ● https://github.com/rguo12/awesome-causality-algorithms
+
 ● https://github.com/jrfiedler/causal_inference_python_code/blob/master/cha
 pter12.ipynb
+
 ● https://github.com/shubamsumbria66/Breast-Cancer-Pred/blob/main/model
 s/src.p
